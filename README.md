@@ -15,3 +15,5 @@ My tasks were:
 - Present my finding to help my stakeholders make data-driven decisions
 
 ![ELON](https://user-images.githubusercontent.com/64493571/134772447-138bd742-a98b-466c-b470-4fb35bf305e8.jpg)
+
+Note: GitHub cannot properly render Folium maps. If you want to examine the maps in the 6th notebook, please open the link through https://nbviewer.jupyter.org/
