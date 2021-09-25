@@ -14,4 +14,4 @@ My tasks were:
 - Pick the best classifier for the job
 - Present my finding to help my stakeholders make data-driven decisions
 
-![title]("./ELON.jpg")
+![ELON](https://user-images.githubusercontent.com/64493571/134772447-138bd742-a98b-466c-b470-4fb35bf305e8.jpg)
