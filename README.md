@@ -8,8 +8,8 @@ My tasks were:
 - Get the SpaceX launch data from the SpaceX REST API and SpaceX launch Wiki page
 - Format and label the data correctly
 - Do EDA through SQL queries and data viz
-- Create geospatial visualizations on Folium maps
-- Create dashboards using Plotly Dash
+- Create interactive geospatial visualizations on Folium maps
+- Create interactive dashboards using Plotly Dash
 - Use sklearn's supervised learning algorithms to build different classifiers to predict the outcome of a launch
 - Pick the best classifier for the job
 - Present my finding to help my stakeholders make data-driven decisions
